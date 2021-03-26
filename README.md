@@ -19,6 +19,10 @@ Sample Image From the Project:-
 
 Flutter Login UI Design with Validation.
 
-![Login UI Design with Validation](/Flutter-LoginUi-with-Validation/blob/de93a7b09d6712d097223ed55f3d7fefa4a99bee/Flutter-LoginUi-with-Validation1.png?raw=true "Login UI Design")
+![Login UI Design with Validation](https://github.com/ashishpradhan01/Flutter-LoginUi-with-Validation/blob/de93a7b09d6712d097223ed55f3d7fefa4a99bee/Flutter-LoginUi-with-Validation1.png?raw=true "Login UI Design")
 
-https://github.com/ashishpradhan01/Flutter-LoginUi-with-Validation/blob/de93a7b09d6712d097223ed55f3d7fefa4a99bee/Flutter-LoginUi-with-Validation1.png
+![Login UI Design with Validation](https://github.com/ashishpradhan01/Flutter-LoginUi-with-Validation/blob/3048e3f43f97a4ab0cfb36d04f63e7cfdb29feb7/Flutter-LoginUi-with-Validation2.png?raw=true "Login UI Design")
+
+
+
+
